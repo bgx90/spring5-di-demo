@@ -124,6 +124,8 @@ Desktop.ini
 *.*~
 *~
 .merge_file*
+tags
+tags.lock
 
 ######################
 # Gradle Wrapper
